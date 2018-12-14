@@ -1,7 +1,6 @@
-
-
-
-void draw() {
+void setup() { 
+  size(2000, 1000);} 
+  void draw() {
   //cookie dough
   fill(245, 222, 179);
   ellipse(mouseX, mouseY, 80, 80);
